@@ -1,0 +1,42 @@
+body {
+    background-color: #fff7ed;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    background-color: #fde68a;
+    font-family: cursive;
+}
+.img {
+    text-align: center;
+}
+.section {
+        background-color: #fed7aa;
+        text-align: center;
+}
+.section a{
+    text-decoration: none;
+    color: #92400e;
+    font-weight: bold;
+    font-size: 20px;
+}
+h2{
+    color: #92400e;
+    font-family: cursive;
+}
+.hot {
+    background-color:#ffff;
+     font-family: cursive;
+     font-size: 20px;
+}
+.na:hover {
+    background-color: #78350f;
+    color: yellow;
+}
+footer {
+    background-color: #78350f;
+    color: white;
+    text-align: center;
+    line-height: 1.8;
+    
+}
